@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "qlog",
+    "slug": "qlog",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "qlog"
+}
